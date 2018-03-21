@@ -1,0 +1,22 @@
+EXPORTS
+	_PCC_Evaluate___				@1
+	_PCC_GetBooleanProperty___		@2
+	_PCC_GetFloatProperty___		@3
+	_PCC_GetIntegerProperty___		@4
+	_PCC_GetMessage___				@5
+	_PCC_GetMessageCount___			@6
+	_PCC_GetStringProperty___		@7
+	_PCC_GetVersionProperty___		@8
+	_PCC_Initialize___				@9
+	_PCC_ResetState___				@10
+	_PCC_SetBooleanProperty___		@11
+	_PCC_SetFloatProperty___		@12
+	_PCC_SetIntegerProperty___		@13
+	_PCC_SetStringProperty___		@14
+	_PCC_SetVersionProperty___		@15
+	_PCC_SetVinceOptions___			@16
+	_PCC_ShowConsentUI___			@17
+	_PCC_ShowMessages___			@18
+	_PCC_ShutdownCheckpoint___		@19
+	_PCC_StartupCheckpoint___		@20
+	_PCC_Uninitialize___			@21

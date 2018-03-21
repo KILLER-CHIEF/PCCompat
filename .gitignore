@@ -1,0 +1,10 @@
+/Debug
+/Release
+/PCCompat/Debug
+/PCCompat/Release
+/RenameOrdinals/Debug
+/RenameOrdinals/Release
+/.vs
+/PCCompat.VC.db
+/PCCompat/PCCompat.aps
+/PCCompat.VC.VC.opendb
